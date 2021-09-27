@@ -5,7 +5,7 @@
   "directories": {
     "doc": "docs"
   },
-  "default": "src/index.js",
+  "default": "src/index.html",
   "scripts": {
     "test": "none",
     "start": "npx parcel src/index.html",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/MTran1426/ToDoList.git"
   },
   "keywords" : [
     "to",
@@ -23,7 +23,7 @@
   ],
   "author": "",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/MTran1426/ToDoList/blob/main/Readme.md",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0-rc.0",
     "http-server": "^13.0.2",
