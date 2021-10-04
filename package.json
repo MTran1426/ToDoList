@@ -5,7 +5,7 @@
   "directories": {
     "doc": "docs"
   },
-  "default": "src/index.html",
+  "default": "src/index.js",
   "scripts": {
     "test": "none",
     "start": "npx parcel src/index.html",
@@ -23,7 +23,10 @@
   ],
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/MTran1426/ToDoList/blob/main/Readme.md",
+  "bugs": {
+    "url": "https://github.com/MTran1426/ToDoList/issues"
+  },
+  "homepage": "https://github.com/MTran1426/ToDoList#readme.md",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.0-rc.0",
     "http-server": "^13.0.2",
